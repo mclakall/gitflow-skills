@@ -1,1 +1,2 @@
 This is file04.txt
+I am now editing this file
